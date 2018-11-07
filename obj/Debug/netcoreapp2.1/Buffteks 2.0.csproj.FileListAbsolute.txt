@@ -1,0 +1,22 @@
+U:\CIDM3312\Buffteks 2.0\bin\Debug\netcoreapp2.1\Buffteks 2.0.deps.json
+U:\CIDM3312\Buffteks 2.0\bin\Debug\netcoreapp2.1\Buffteks 2.0.runtimeconfig.json
+U:\CIDM3312\Buffteks 2.0\bin\Debug\netcoreapp2.1\Buffteks 2.0.runtimeconfig.dev.json
+U:\CIDM3312\Buffteks 2.0\bin\Debug\netcoreapp2.1\Buffteks 2.0.dll
+U:\CIDM3312\Buffteks 2.0\bin\Debug\netcoreapp2.1\Buffteks 2.0.pdb
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.csprojAssemblyReference.cache
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.csproj.CoreCompileInputs.cache
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.AssemblyInfoInputs.cache
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.AssemblyInfo.cs
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.dll
+U:\CIDM3312\Buffteks 2.0\obj\Debug\netcoreapp2.1\Buffteks 2.0.pdb
+C:\Users\cory4\Desktop\Buffteks-2.0-master\bin\Debug\netcoreapp2.1\Buffteks 2.0.deps.json
+C:\Users\cory4\Desktop\Buffteks-2.0-master\bin\Debug\netcoreapp2.1\Buffteks 2.0.runtimeconfig.json
+C:\Users\cory4\Desktop\Buffteks-2.0-master\bin\Debug\netcoreapp2.1\Buffteks 2.0.runtimeconfig.dev.json
+C:\Users\cory4\Desktop\Buffteks-2.0-master\bin\Debug\netcoreapp2.1\Buffteks 2.0.dll
+C:\Users\cory4\Desktop\Buffteks-2.0-master\bin\Debug\netcoreapp2.1\Buffteks 2.0.pdb
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.csprojAssemblyReference.cache
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.csproj.CoreCompileInputs.cache
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.AssemblyInfoInputs.cache
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.AssemblyInfo.cs
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.dll
+C:\Users\cory4\Desktop\Buffteks-2.0-master\obj\Debug\netcoreapp2.1\Buffteks 2.0.pdb
